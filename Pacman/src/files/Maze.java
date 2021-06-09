@@ -1,4 +1,4 @@
-package edu.nyu.cs.zh975.PacmanAssignment;
+package files;
 
 /**
  * This class reprents a singular maze block. 
