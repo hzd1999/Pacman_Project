@@ -1,9 +1,9 @@
-package edu.nyu.cs.zh975.PacmanAssignment;
+package files;
 import processing.core.PApplet;
 import processing.core.PConstants;
 import java.util.ArrayList;
-import edu.nyu.cs.zh975.PacmanAssignment.Ghost;
-import edu.nyu.cs.zh975.PacmanAssignment.Pacman;
+import files.Ghost;
+import files.Pacman;
 
 /**
  * Basic controller for Pacman containing the basic business logic of the game.
