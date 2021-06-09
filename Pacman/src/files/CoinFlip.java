@@ -1,4 +1,4 @@
-package edu.nyu.cs.zh975.PacmanAssignment;
+package files;
 import java.awt.List;
 import java.util.ArrayList;
 import java.math.*;
