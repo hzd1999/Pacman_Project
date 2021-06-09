@@ -1,5 +1,5 @@
-package edu.nyu.cs.zh975.PacmanAssignment;
-import edu.nyu.cs.zh975.PacmanAssignment.TestPac;
+package files;
+import files.TestPac;
 import processing.core.PImage;
 
 /**
