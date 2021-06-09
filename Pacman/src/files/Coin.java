@@ -1,4 +1,4 @@
-package edu.nyu.cs.zh975.PacmanAssignment;
+package files;
 import processing.core.PImage;
 
 /**
